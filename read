@@ -33,3 +33,5 @@ Para consultar os anos de um modelo específico (por exemplo, modelo com ID 5940
 GET https://parallelum.com.br/fipe/api/v1/carros/marcas/59/modelos/5940/anos/2014-3
 
 https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Faistudio.google.com%2Fapp%2Fapikey&followup=https%3A%2F%2Faistudio.google.com%2Fapp%2Fapikey&ifkv=ARpgrqdK9OZ6Y-uodEHAL0AkhB6wcZsN57-507CTgnGSMcJ9NSGykN8ozmATmPOivN4lphr7y8cJKQ&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-199345704%3A1728084066979172&ddm=0
+
+https://newtonpaiva.instructure.com/courses/20632/files/6117107?wrap=1&verifier=sPgWtRoz0t8qQdsbUsUE3BMdf1sCLb7SfTuSmsgq
